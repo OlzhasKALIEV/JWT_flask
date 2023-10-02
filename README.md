@@ -17,7 +17,7 @@ JSON = {
     "password":"olzhas1996"
 }
 
-![img_1.png](img_1.png)
+![img_1.png](media/img_1.png)
 
 Аутентификация для генерации токена
 
@@ -30,12 +30,12 @@ JSON = {
     "password":"olzhas1996"
 }
 
-![img_2.png](img_2.png)
+![img_2.png](media/img_2.png)
 
 Проверка логина 
 
 GET: http://127.0.0.1:5000/protected
 
-![img_3.png](img_3.png)
+![img_3.png](media/img_3.png)
 
-![img_4.png](img_4.png)
+![img_4.png](media/img_4.png)
